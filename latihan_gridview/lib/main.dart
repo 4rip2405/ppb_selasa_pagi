@@ -41,7 +41,7 @@ class _GridViewPageState extends State<GridViewPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Latihan Gridview'),
+        title: Text('All About Me'),
       ),
       body: GridView.count(
         crossAxisCount: 2,
